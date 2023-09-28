@@ -2,7 +2,7 @@
 
 ## Acceptance of Terms
 
-Welcome to https://lokmanhakim.tech ("I", "we", "us", or "our"). By accessing and using this website, you agree to comply with and be bound by these Terms of Use. If you do not agree to these terms, please refrain from using my website.
+Welcome to my https://lokmantech.github.io ("I", "we", "us", or "our"). By accessing and using this website, you agree to comply with and be bound by these Terms of Use. If you do not agree to these terms, please refrain from using my website.
 
 ## Use of Content
 
@@ -10,7 +10,7 @@ All content provided on that website is for informational purposes only. The con
 
 ## Intellectual Property
 
-Unless otherwise stated, I own the intellectual property rights for all content on that website. You may not reproduce, distribute, modify, or republish any part of that or this website's content without my explicit written permission.
+Unless otherwise stated, I own the intellectual property rights to all content on that website. You may not reproduce, distribute, modify, or republish any part of that or this website's content without my explicit written permission.
 
 ## User Conduct
 
@@ -30,7 +30,7 @@ I'm not liable for any damages arising from the use of this website or the inabi
 
 ## Governing Law
 
-These Terms of Use are governed by and construed in accordance with the laws of Malaysia. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of the courts in Malaysia.
+These Terms of Use are governed by and construed in accordance with the laws of Malaysia or your residence country. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of the courts in Malaysia or your residence country.
 
 ## Changes to Terms
 
@@ -39,6 +39,6 @@ We reserve the right to modify these Terms of Use at any time. The modified term
 ## Contact Us
 
 If you have any questions about these Terms of Use, please contact us at lhakim.nazri@gmail.com
-Last updated: 27th August 2023.
+Last updated: 28th September 2023.
 
 ### Lokman Hakim
